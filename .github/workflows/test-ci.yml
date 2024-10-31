@@ -21,3 +21,6 @@ jobs:
         python-version: "3.8"
     - name: Display Python version
       run: python -c "import sys; print(sys.version)"
+
+    - name: "연습 연습"
+      run: echo "일단 아무거나 입력 ㅋ"
